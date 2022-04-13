@@ -26,7 +26,7 @@ def main():
         if delta >= 0:
             print("\n{} & {}".format(x1,x2))
         else: 
-            print('\nDelta negaitvo.')
+            print('\nDelta negativo.')
 
     except:
         print("\nErro! Morra coder viadinho.")
